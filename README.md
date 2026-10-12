@@ -79,17 +79,17 @@ This helps me approach security from both a systems and infrastructure perspecti
 ## Pinned Repositories
 
 <p align="left">
-  <a href="https://github.com/CapTaaha/awesome-ctf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=awesome-ctf&theme=radical" alt="awesome-ctf" />
+  <a href="https://github.com/CapTaaha/AzureHoneypotSOCLab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=AzureHoneypotSOCLab&theme=radical" alt="AzureHoneypotSOCLab" />
   </a>
-  <a href="https://github.com/CapTaaha/CyberSecurity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=CyberSecurity&theme=radical" alt="CyberSecurity" />
+  <a href="https://github.com/CapTaaha/Incident_Report_Simplilearn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=Incident_Report_Simplilearn&theme=radical" alt="Incident_Report_Simplilearn" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/CapTaaha/Quantum_Computing_Cryptography_Exploration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=Quantum_Computing_Cryptography_Exploration&theme=radical" alt="Quantum_Computing_Cryptography_Exploration" />
+  <a href="https://github.com/CapTaaha/aegis-triage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=aegis-triage&theme=radical" alt="aegis-triage" />
   </a>
   <a href="https://github.com/CapTaaha/De-AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=De-AI&theme=radical" alt="De-AI" />
@@ -97,8 +97,11 @@ This helps me approach security from both a systems and infrastructure perspecti
 </p>
 
 <p align="left">
-  <a href="https://github.com/CapTaaha/captaaha.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=captaaha.github.io&theme=radical" alt="captaaha.github.io" />
+  <a href="https://github.com/CapTaaha/rootaccess_2k24">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=rootaccess_2k24&theme=radical" alt="rootaccess_2k24" />
+  </a>
+  <a href="https://github.com/CapTaaha/Blue-Machine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=Blue-Machine&theme=radical" alt="Blue-Machine" />
   </a>
 </p>
 
