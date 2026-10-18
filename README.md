@@ -76,35 +76,6 @@ This helps me approach security from both a systems and infrastructure perspecti
 - Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 
-## Pinned Repositories
-
-<p align="left">
-  <a href="https://github.com/CapTaaha/AzureHoneypotSOCLab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=AzureHoneypotSOCLab&theme=radical" alt="AzureHoneypotSOCLab" />
-  </a>
-  <a href="https://github.com/CapTaaha/Incident_Report_Simplilearn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=Incident_Report_Simplilearn&theme=radical" alt="Incident_Report_Simplilearn" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/CapTaaha/aegis-triage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=aegis-triage&theme=radical" alt="aegis-triage" />
-  </a>
-  <a href="https://github.com/CapTaaha/De-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=De-AI&theme=radical" alt="De-AI" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/CapTaaha/rootaccess_2k24">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=rootaccess_2k24&theme=radical" alt="rootaccess_2k24" />
-  </a>
-  <a href="https://github.com/CapTaaha/Blue-Machine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapTaaha&repo=Blue-Machine&theme=radical" alt="Blue-Machine" />
-  </a>
-</p>
-
 ## Looking For
 
 - Security Analyst
