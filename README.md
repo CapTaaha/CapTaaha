@@ -94,7 +94,3 @@ I'm especially interested in roles where I can apply both my security curiosity 
 - 🧑‍💻 GitHub: https://github.com/CapTaaha
 
 > Security is not a feature. It is a requirement.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CapTaaha&label=Profile%20views&color=FF1744&style=flat" alt="Profile views" />
-</p>
